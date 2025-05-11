@@ -97,7 +97,8 @@ Ensure Scala version compatibility between Spark and Kafka.
 > [!CAUTION]
 > You may need to set the Scala version in your SparkSession to 2.12 if you’re using Kafka 2.12.
 
-> [!INFO] > [This is the Kafka version that I used](https://downloads.apache.org/kafka/3.9.0/kafka_2.13-3.9.0.tgz)
+> [!NOTE]
+> [This is the Kafka version that I used](https://downloads.apache.org/kafka/3.9.0/kafka_2.13-3.9.0.tgz)
 >
 > After downloading, extract the downloaded file to a convenient directory (e.g., C:/):
 
